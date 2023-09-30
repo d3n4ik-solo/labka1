@@ -1,0 +1,11 @@
+div {
+    color: #8A2BE2;
+}
+p {
+    text-transform: uppercase;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
